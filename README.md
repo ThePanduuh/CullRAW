@@ -8,6 +8,10 @@ This script was written using Python 3. Install Python 3 from https://www.python
 
 This script requires Send2Trash. Install via pip: `pip install send2trash`
 
+This script requires compilation into a `.exe` for use as a Send To shortcut in Windows.
+
+I used PyInstaller, which can be installed via pip: `pip install pyinstaller`.
+
 This was built and tested on Windows. No guarantees this will be useful on other operating systems.
 
 ## How to run
